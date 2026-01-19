@@ -1,7 +1,7 @@
 {
-  "name": "sharabi-cookies-tool",
+  "name": "AZRA-WASU",
   "version": "1.0.0",
-  "description": "SHARABI COOKIES TOOL - Ultimate Facebook Message Sender with 15 & 16 Digit Groups Support",
+  "description": "WASU COOKIES TOOL - Ultimate Facebook Message Sender with 15 & 16 Digit Groups Support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
