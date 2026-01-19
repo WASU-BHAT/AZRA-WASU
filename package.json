@@ -1,7 +1,7 @@
 {
   "name": "AZRA-WASU",
   "version": "1.0.0",
-  "description": "WASU COOKIES TOOL - Ultimate Facebook Message Sender with 15 & 16 Digit Groups Support",
+  "description": "SHARABI COOKIES TOOL - Ultimate Facebook Message Sender with 15 & 16 Digit Groups Support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -20,7 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "fca-mafiya": "^1.4.9",
+    "facebook-chat-api": "github:Schmavery/facebook-chat-api",
     "uuid": "^9.0.0",
     "ws": "^8.14.2"
   },
@@ -29,13 +29,5 @@
   },
   "engines": {
     "node": ">=16.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/your-username/sharabi-cookies-tool.git"
-  },
-  "bugs": {
-    "url": "https://github.com/your-username/sharabi-cookies-tool/issues"
-  },
-  "homepage": "https://github.com/your-username/sharabi-cookies-tool#readme"
+  }
 }
